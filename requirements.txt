@@ -1,4 +1,3 @@
-streamlit
 pip
 python-telegram-bot==12.3.0
 python-dotenv
